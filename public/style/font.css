@@ -1,0 +1,54 @@
+@font-face {
+    font-family: 'poppins';
+    src: url('../poppins/Poppins-Thin.woff');
+    font-style: normal;
+    font-weight: 100;
+}
+@font-face {
+    font-family: 'poppins';
+    src: url('../poppins/Poppins-ExtraLight.woff');
+    font-style: normal;
+    font-weight: 200;
+}
+@font-face {
+    font-family: 'poppins';
+    src: url('../poppins/Poppins-Light.woff');
+    font-style: normal;
+    font-weight: 300;
+}
+@font-face {
+    font-family: 'poppins';
+    src: url('../poppins/Poppins-Regular.woff');
+    font-style: normal;
+    font-weight: 400;
+}
+@font-face {
+    font-family: 'poppins';
+    src: url('../poppins/Poppins-Medium.woff');
+    font-style: normal;
+    font-weight: 500;
+}
+@font-face {
+    font-family: 'poppins';
+    src: url('../poppins/Poppins-SemiBold.woff');
+    font-style: normal;
+    font-weight: 600;
+}
+@font-face {
+    font-family: 'poppins';
+    src: url('../poppins/Poppins-Bold.woff');
+    font-style: normal;
+    font-weight: 700;
+}
+@font-face {
+    font-family: 'poppins';
+    src: url('../poppins/Poppins-ExtraBold.woff');
+    font-style: normal;
+    font-weight: 800;
+}
+@font-face {
+    font-family: 'poppins';
+    src: url('../poppins/Poppins-Black.woff');
+    font-style: normal;
+    font-weight: 900;
+}
